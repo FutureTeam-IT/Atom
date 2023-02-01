@@ -120,7 +120,6 @@ object Atom {
         }
 
         MinecraftServer.getCommandManager().register(Shutdown)
-        MinecraftServer.getCommandManager().register(Test)
 
         with(configuration.network) {
             MinecraftServer.setCompressionThreshold(threshold)
