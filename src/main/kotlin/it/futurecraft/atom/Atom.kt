@@ -1,7 +1,6 @@
 package it.futurecraft.atom
 
 import it.futurecraft.atom.commands.Shutdown
-import it.futurecraft.atom.commands.Test
 import it.futurecraft.atom.coroutines.minecraftScope
 import it.futurecraft.atom.instance.Doper
 import it.futurecraft.atom.io.FileManager
